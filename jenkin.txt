@@ -1,0 +1,8 @@
+http://18.204.204.231:8080
+
+http://18.204.204.231:8080/
+
+Jenkins username Arif2506
+        password Arif@2506
+
+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
